@@ -4,7 +4,7 @@ module csa_4bit_test();
     reg [3:0]a,b;
     wire [7:0]p;
     reg [7:0]check;
-    csa_4_bit uut(a,b,p);
+    csa_4bit uut(a,b,p);
     initial repeat(10) begin
         a=$random;
         b=$random;
