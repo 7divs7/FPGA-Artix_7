@@ -14,6 +14,6 @@ Verilog codes for basic adders and mutipliers for Nexys4 DDR Artix-7 FPGA Board
   bwm_4bit.v
   bwm_4bit_test.v
 *Wallace Tree Multiplier
-  wall_4bit.v
-  wall_4bit_test.v
+  wall.v
+  wall_test.v
 
