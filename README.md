@@ -1,5 +1,5 @@
 # FPGA-Artix_7
-Verilog codes for basic adders and mutipliers for Nexys4 DDR Artix-7 FPGA Board
+Verilog codes for basic adders and multipliers for Nexys4 DDR Artix-7 FPGA Board
 
 *Ripple Carry Adder
   rca_4bit.v
